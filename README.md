@@ -38,8 +38,8 @@ https://portfolio-benjamin-smoky.vercel.app/
 ## Installation
 
 ```bash
-git clone ...
-cd portfolio
+git clone https://github.com/BenjaminBernade/portfolio-benjamin
+cd portfolio-benjamin
 npm install
 npm run dev
 
